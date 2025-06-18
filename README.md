@@ -3,15 +3,22 @@ Tiny Little Whispers é um jogo de RPG 2D de terror e suspense psicológico, ins
 
 ## Visão Geral
 **Gênero**: RPG de Turnos / Terror Psicológico / Suspense;
+
 **Engine**: Godot (GDScript);
+
 **Status**: Protótipo;
+
 **Plataforma Alvo**: PC.
 
 ## Mecânicas Principais
 **Sistema de Turnos**: Combate estratégico com ações baseadas em recursos.
+
 **Party Dinâmica**: Controle 4 personagens com arquétipos únicos.
+
 **Itens Utilizáveis**: Colete e use objetos para sobreviver às batalhas.
+
 **Inimigos com Traits**: Criaturas/alucinações com habilidades específicas e padrões de comportamento.
+
 **Sistema de Sanidade**: Alucinações e eventos aleatórios afetam a party.
 
 ## Personagens
