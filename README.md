@@ -17,13 +17,13 @@ Tiny Little Whispers é um jogo de RPG 2D de terror e suspense psicológico, ins
 ## Personagens
 Cada criança possui um passado traumático e habilidades distintas:
 Luis - _Descrição a ser feita_
-![Luis](Pictures/Luis.png)
+![Luis](Imagens/Luis.png)
 Levi - _Descrição a ser feita_
-![Levi](Pictures/Levi.png)
+![Levi](Imagens/Levi.png)
 Sofia - _Descrição a ser feita_
-![Sofia](Pictures/Sofia.png)
+![Sofia](Imagens/Sofia.png)
 Pedro - _Descrição a ser feita_
-![Pedro](Pictures/Pedro.png)
+![Pedro](Imagens/Pedro.png)
 
 ## Ambientação
 O jogo se passa no Hospital Casa Santa Amélia, um local decadente onde os limites entre realidade e delírio se confundem.
