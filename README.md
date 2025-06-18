@@ -34,7 +34,9 @@ O jogo se passa no Hospital Casa Santa Amélia, um local decadente onde os limit
 
 ## Tecnologia
 **Engine**: Godot 4.x
+
 **Linguagem**: GDScript
+
 **Ferramentas**: _Descrever_
 
 ## Objetivos Atuais (Protótipo)
