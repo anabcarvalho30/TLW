@@ -24,18 +24,29 @@ Tiny Little Whispers é um jogo de RPG 2D de terror e suspense psicológico, ins
 ## Personagens
 Cada criança possui um passado traumático e habilidades distintas:
 
-### Luis - _Descrição a ser feita_
-![Luis](Imagens/Luis.png)
+### Luis -
+Luís é um personagem com um espírito protetor. Muito embora a primeira vista pareça não tão apresentável (ou até aterrorizante), o garoto tem um grande coração e se importa muito com seus amigos!
+Classe: Se localiza na posição traseira da ordem de ataque, sendo classificado como ranger. Responsavel pelo dano à distância.
+
 <img src="Imagens/Luis.png" alt="Luis" width="300"/>
 
-### Levi - _Descrição a ser feita_
-![Levi](Imagens/Levi.png)
+### Levi -
+Levi é um menino impaciente. De todos no grupo, é certamente o que mais quer sair dali. Ele tem sim uma consideração pelos amigos, mas não o leve a mal, seria legal que todos escapassem juntos, mas a prioridade era que a irmã saísse sã e salva. Ele pode nao conseguir demonstrar, mas a irmã é a coisa mais importante pra ele, até mais que ele mesmo. A única coisa que sobrou dele.
+Casse: se localiza na posição atrás de Pedro da ordem de ataque, sendo classificado como fighter. Responsavel pelo maior dano da equipe, necessitando de menos estratégia. 
 
-### Sofia - _Descrição a ser feita_
-![Sofia](Imagens/Sofia.png)
+<img src="Imagens/Levi.png" alt="Levi" width="300"/>
 
-### Pedro - _Descrição a ser feita_
-![Pedro](Imagens/Pedro.png)
+### Sofia -
+Sofia é a luz do grupo. Desde o início se percebe que ela é quem levanta o astral de todos. Tenta animar todo mundo sempre que pode, usando vários métodos. Dentre estes, empresta Senhor Heraldo, seu ursinho, para que seus amigos deêm um abraço bem apertado!
+Classe: se localiza na posição à frente de Luiz na ordem de ataque, sendo classificada como healer. Responsavel pela revigoração de sanidade da equipe.
+
+<img src="Imagens/Sofia.png" alt="Sofia" width="300"/>
+
+### Pedro -
+Pedro é a muralha do time. Pedro nunca foi de falar muito, mesmo que tenha pequenos diálogos com todos. Ele foi o primeiro a chegar na sala e era muito agressivo quando se tentava realizar alguma interação. Quando chegaram novas amizades em sua sala, ficou mais tranquilo.
+Classe: se localiza na posição à frente de todos na ordem de ataque, sendo classificado como tank. Responsavel por receber maior parte do dano.
+
+<img src="Imagens/Pedro.png" alt="Pedro" width="300"/>
 
 ## Ambientação
 O jogo se passa no Hospital Casa Santa Amélia, um local decadente onde os limites entre realidade e delírio se confundem.
