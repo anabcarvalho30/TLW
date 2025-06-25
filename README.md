@@ -26,6 +26,7 @@ Cada criança possui um passado traumático e habilidades distintas:
 
 ### Luis - _Descrição a ser feita_
 ![Luis](Imagens/Luis.png)
+<img src="Imagens/Luis.png" alt="Luis" width="300"/>
 
 ### Levi - _Descrição a ser feita_
 ![Levi](Imagens/Levi.png)
