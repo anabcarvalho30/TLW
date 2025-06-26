@@ -19,6 +19,33 @@ Tiny Little Whispers é um jogo de RPG 2D de terror e suspense psicológico, ins
 
 **Inimigos com Traits**: Criaturas/alucinações com habilidades específicas e padrões de comportamento.
 
+### Pirata: ### 
+
+Tipo de ataque:
+Principal fraqueza:
+
+**Wiki**: 
+
+<img src="Imagens/Pirata.png" alt="Pirata" width="300"/>
+
+### Homem do saco: ### 
+
+Tipo de ataque:
+Principal fraqueza:
+
+**Wiki**: Silencioso. Só anda pelas ruas com passos lentos e o saco às costas, arrastando como se fosse pesado demais. Dizem que ele pega as crianças que desobedecem. Ninguém viu o rosto dele — só o vulto passando na calçada, no fim da rua, ou parado no canto escuro do quarto. Às vezes parece que ele está mais perto do que antes. E mesmo que ninguém acredite de verdade, quando a luz apaga, o medo sussurra que ele pode estar vindo agora.
+
+<img src="Imagens/Homem.png" alt="Pirata" width="300"/>
+
+### Palhaço: ### 
+
+Tipo de ataque:
+Principal fraqueza:
+
+**Wiki**: O que deveria ser engraçado, vira estranho. O rosto pintado nunca muda, está sempre sorrindo, mesmo quando ele para de se mexer. O riso é alto demais, os olhos são grandes demais, os gestos são rápidos demais. Tudo nele parece exagerado, como se estivesse fingindo o tempo todo. E quando ele se aproxima, o coração bate mais forte — não de alegria, mas de medo. 
+
+<img src="Imagens/Palhaço.png" alt="Pirata" width="300"/>
+
 **Sistema de Sanidade**: Alucinações e eventos aleatórios afetam a party.
 
 ## Personagens
@@ -55,7 +82,7 @@ Pedro é a muralha do time. Pedro nunca foi de falar muito, mesmo que tenha pequ
 ## Ambientação
 O jogo se passa no Hospital Casa Santa Amélia, um local decadente onde os limites entre realidade e delírio se confundem.
 
-<img src="Imagens/Salao.png" alt="Pedro" width="300"/>
+<img src="Imagens/Salao.png" alt="Pedro" width="500"/>
 
 ## Tecnologia
 **Engine**: Godot 4.x
