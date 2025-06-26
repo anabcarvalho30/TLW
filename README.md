@@ -35,7 +35,7 @@ Principal fraqueza:
 
 **Wiki**: Silencioso. Só anda pelas ruas com passos lentos e o saco às costas, arrastando como se fosse pesado demais. Dizem que ele pega as crianças que desobedecem. Ninguém viu o rosto dele — só o vulto passando na calçada, no fim da rua, ou parado no canto escuro do quarto. Às vezes parece que ele está mais perto do que antes. E mesmo que ninguém acredite de verdade, quando a luz apaga, o medo sussurra que ele pode estar vindo agora.
 
-<img src="Imagens/Homem.png" alt="Pirata" width="300"/>
+<img src="Imagens/Homem.png" alt="Homem-do-saco" width="300"/>
 
 ### Palhaço: ### 
 
@@ -44,7 +44,7 @@ Principal fraqueza:
 
 **Wiki**: O que deveria ser engraçado, vira estranho. O rosto pintado nunca muda, está sempre sorrindo, mesmo quando ele para de se mexer. O riso é alto demais, os olhos são grandes demais, os gestos são rápidos demais. Tudo nele parece exagerado, como se estivesse fingindo o tempo todo. E quando ele se aproxima, o coração bate mais forte — não de alegria, mas de medo. 
 
-<img src="Imagens/Palhaço.png" alt="Pirata" width="300"/>
+<img src="Imagens/Palhaco.png" alt="Palhaco" width="300"/>
 
 **Sistema de Sanidade**: Alucinações e eventos aleatórios afetam a party.
 
