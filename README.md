@@ -19,9 +19,12 @@ Tiny Little Whispers é um jogo de RPG 2D de terror e suspense psicológico, ins
 
 **Inimigos com Traits**: Criaturas/alucinações com habilidades específicas e padrões de comportamento.
 
+**Sistema de Sanidade**: Alucinações e eventos aleatórios afetam a party.
+
 ### Pirata: ### 
 
 Tipo de ataque:
+
 Principal fraqueza:
 
 **Wiki**: 
@@ -31,6 +34,7 @@ Principal fraqueza:
 ### Homem do saco: ### 
 
 Tipo de ataque:
+
 Principal fraqueza:
 
 **Wiki**: Silencioso. Só anda pelas ruas com passos lentos e o saco às costas, arrastando como se fosse pesado demais. Dizem que ele pega as crianças que desobedecem. Ninguém viu o rosto dele — só o vulto passando na calçada, no fim da rua, ou parado no canto escuro do quarto. Às vezes parece que ele está mais perto do que antes. E mesmo que ninguém acredite de verdade, quando a luz apaga, o medo sussurra que ele pode estar vindo agora.
@@ -40,13 +44,12 @@ Principal fraqueza:
 ### Palhaço: ### 
 
 Tipo de ataque:
+
 Principal fraqueza:
 
 **Wiki**: O que deveria ser engraçado, vira estranho. O rosto pintado nunca muda, está sempre sorrindo, mesmo quando ele para de se mexer. O riso é alto demais, os olhos são grandes demais, os gestos são rápidos demais. Tudo nele parece exagerado, como se estivesse fingindo o tempo todo. E quando ele se aproxima, o coração bate mais forte — não de alegria, mas de medo. 
 
 <img src="Imagens/Palhaco.png" alt="Palhaco" width="300"/>
-
-**Sistema de Sanidade**: Alucinações e eventos aleatórios afetam a party.
 
 ## Personagens
 Cada criança possui um passado traumático e habilidades distintas:
